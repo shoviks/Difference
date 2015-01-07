@@ -1,0 +1,15 @@
+Author: Shovik Shyamsundar
+
+EXECUTION INSTRUCTIONS
+While in the program's current directory, type
+
+make
+
+to compile. Then type
+
+./a.out fileone filetwo
+
+to execute the program. 
+
+For some reason when running this program on my computer I get 0.000000 ms for step 1 and 2. 
+I feel like this is the case only when running on my machine.
